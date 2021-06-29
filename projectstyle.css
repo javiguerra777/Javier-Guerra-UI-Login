@@ -1,0 +1,54 @@
+body {
+    background-image:url(https://static.vecteezy.com/system/resources/previews/002/368/540/large_2x/white-luxury-elegant-background-free-vector.jpg);
+    padding: 0;
+    margin: 0;
+    background-size:cover;
+    background-position:center;
+}
+.container {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card{
+    display: flex;
+    border-style: solid;
+    border-width: 4px;
+    border-radius: 12px;
+    border-color: rgba(0,0,0,0.3);
+    background-color: rgba(0,0,0,0.05);
+    width: 400px;
+    min-width: 30%;
+    min-height: 20%;
+    flex-direction: column;
+    background-color: white;
+    text-align:center;
+    margin: 5% auto 0;
+    padding: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    
+}
+.card h1 {
+    color:lightslategray;
+    margin-bottom: 20px;
+}
+.boxes {
+    border-radius: 30px;
+    padding: 10px;
+    margin: 5px 0;
+    width: 80%;
+}
+#submitbutton {
+    border-radius: 20px;
+    width: 50%;
+    color:white;
+    background-color:lightskyblue;
+    padding: 10px;
+}
+#image {
+    width: 70px;
+    margin-top: -60px;
+    align-self: center;
+}

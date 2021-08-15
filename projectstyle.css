@@ -1,6 +1,5 @@
 body {
-    /*background image was taken from static.vecteezy.com*/
-    background-image:url(https://static.vecteezy.com/system/resources/previews/002/368/540/large_2x/white-luxury-elegant-background-free-vector.jpg);
+    background: linear-gradient(to right,#00AAFF, #00FF0C);
     padding: 0;
     margin: 0;
     background-size:cover;
